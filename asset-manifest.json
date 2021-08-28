@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-react-app.gi/static/css/main.a617e044.chunk.css",
-    "main.js": "/my-react-app.gi/static/js/main.15e8f7ea.chunk.js",
-    "main.js.map": "/my-react-app.gi/static/js/main.15e8f7ea.chunk.js.map",
-    "runtime-main.js": "/my-react-app.gi/static/js/runtime-main.c4e3489e.js",
-    "runtime-main.js.map": "/my-react-app.gi/static/js/runtime-main.c4e3489e.js.map",
-    "static/js/2.a82c6c10.chunk.js": "/my-react-app.gi/static/js/2.a82c6c10.chunk.js",
-    "static/js/2.a82c6c10.chunk.js.map": "/my-react-app.gi/static/js/2.a82c6c10.chunk.js.map",
-    "static/js/3.2b58bc18.chunk.js": "/my-react-app.gi/static/js/3.2b58bc18.chunk.js",
-    "static/js/3.2b58bc18.chunk.js.map": "/my-react-app.gi/static/js/3.2b58bc18.chunk.js.map",
-    "index.html": "/my-react-app.gi/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/my-react-app.gi/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.a82c6c10.chunk.js.LICENSE.txt": "/my-react-app.gi/static/js/2.a82c6c10.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-react-app.gi/static/media/logo.6ce24c58.svg"
+    "main.css": "/my-react-app.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/my-react-app.git/static/js/main.15e8f7ea.chunk.js",
+    "main.js.map": "/my-react-app.git/static/js/main.15e8f7ea.chunk.js.map",
+    "runtime-main.js": "/my-react-app.git/static/js/runtime-main.85e5bc3b.js",
+    "runtime-main.js.map": "/my-react-app.git/static/js/runtime-main.85e5bc3b.js.map",
+    "static/js/2.a82c6c10.chunk.js": "/my-react-app.git/static/js/2.a82c6c10.chunk.js",
+    "static/js/2.a82c6c10.chunk.js.map": "/my-react-app.git/static/js/2.a82c6c10.chunk.js.map",
+    "static/js/3.2b58bc18.chunk.js": "/my-react-app.git/static/js/3.2b58bc18.chunk.js",
+    "static/js/3.2b58bc18.chunk.js.map": "/my-react-app.git/static/js/3.2b58bc18.chunk.js.map",
+    "index.html": "/my-react-app.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/my-react-app.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a82c6c10.chunk.js.LICENSE.txt": "/my-react-app.git/static/js/2.a82c6c10.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-react-app.git/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4e3489e.js",
+    "static/js/runtime-main.85e5bc3b.js",
     "static/js/2.a82c6c10.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.15e8f7ea.chunk.js"
